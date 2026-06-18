@@ -18,16 +18,20 @@
       "timeLabel": "Recommended practice time: 55 minutes",
       "examQuestions": 55,
       "type": "mcq",
-      "examFiles": []
+      "examFiles": [
+        "ap_world_history_modern_mcq_exam_01.json"
+      ]
     },
     {
       "id": "saq",
-      "label": "AP World History: Modern Short-Answer Section",
+      "label": "AP World History: Modern Short-Answer Question",
       "timeMin": 40,
       "timeLabel": "Recommended practice time: 40 minutes",
       "examQuestions": 3,
       "type": "written",
-      "examFiles": []
+      "examFiles": [
+        "ap_world_history_modern_saq_exam_01.json"
+      ]
     },
     {
       "id": "dbq",
@@ -36,7 +40,9 @@
       "timeLabel": "Recommended practice time: 60 minutes",
       "examQuestions": 1,
       "type": "written",
-      "examFiles": []
+      "examFiles": [
+        "ap_world_history_modern_dbq_exam_01.json"
+      ]
     },
     {
       "id": "leq",
@@ -45,8 +51,19 @@
       "timeLabel": "Recommended practice time: 40 minutes",
       "examQuestions": 1,
       "type": "written",
-      "examFiles": []
+      "examFiles": [
+        "ap_world_history_modern_leq_exam_01.json"
+      ]
     }
   ],
-  "printables": []
+  "printables": [
+    {
+      "label": "AP World History: Modern Free-Response Practice Exam 01",
+      "file": "ap_world_history_modern_frq_exam_01.pdf"
+    },
+    {
+      "label": "AP World History: Modern MCQ Practice Exam 01",
+      "file": "ap_world_history_modern_mcq_exam_01.pdf"
+    }
+  ]
 }

@@ -1,0 +1,28 @@
+{
+  "title": "AP World History: Modern LEQ Practice Exam 01",
+  "section": "leq",
+  "questions": [
+    {
+      "id": "APWH-LEQ1-001",
+      "section": "LEQ",
+      "type": "written",
+      "itemType": "written",
+      "unit": "Unit 4 — Transoceanic Interconnections",
+      "period": "c. 1450–1750",
+      "theme": "SIO — Social Interactions and Organization",
+      "skill": "",
+      "historicalReasoning": "Continuity and Change Over Time",
+      "sourceType": "Broad historical prompt with introductory statement",
+      "prompt": "From c. 1450 to 1750, transoceanic expansion connected port cities, colonial societies, and inland production zones across the Atlantic, Pacific, and Indian Ocean worlds. These connections reshaped social hierarchies in some places while reinforcing older forms of status, labor, and identity in others.\nEvaluate the extent to which transoceanic expansion changed social hierarchies in the period c. 1450 to 1750.",
+      "choices": {},
+      "correct": "",
+      "correctAnswerText": "",
+      "explanation": "",
+      "scoringGuide": "Total Points: 6\nThesis / Claim — 1 point: Earns the point by making a historically defensible claim that evaluates the extent to which transoceanic expansion changed social hierarchies from c. 1450 to 1750. A strong thesis should establish a line of reasoning about change, continuity, or both.\nContextualization — 1 point: Earns the point by describing a broader context relevant to the prompt, such as European maritime expansion, the Columbian Exchange, plantation economies, coerced labor systems, missionary activity, maritime trading companies, gunpowder empires, or existing social hierarchies before 1450.\nEvidence — 2 points: Earns 1 point by identifying at least two specific pieces of relevant evidence, such as castas in Spanish America, creole elites, enslaved Africans in plantation colonies, indigenous labor drafts, mixed-race communities, European merchant enclaves, Dutch or Portuguese trading posts, or coastal intermediaries. Earns 2 points by using at least two pieces of evidence to support an argument about how hierarchies changed or continued.\nHistorical Reasoning — 1 point: Earns the point by using continuity and change over time to explain the extent of transformation. A strong response should show both what changed, such as racialized colonial hierarchies or new merchant elites, and what continued, such as patriarchy, coerced labor, noble privilege, religious authority, or preexisting status distinctions.\nComplexity — 1 point: Earns the point by demonstrating a nuanced understanding of social hierarchy in multiple regions or social groups. This may include explaining that transoceanic expansion produced dramatic changes in settler colonies and plantation zones while producing more limited or negotiated change in some Asian or African port societies, or showing how race, religion, class, gender, and labor status interacted.",
+      "modelGuidance": "A strong LEQ should avoid simply listing empires or trade goods. It should make a clear argument about social hierarchy. Useful evidence might include Spanish American casta systems, Portuguese Brazil, Caribbean plantation slavery, indigenous labor obligations, creole elites, European trading-company officials, African coastal brokers, missionary communities, and mixed-race populations. The best responses will balance change and continuity, showing that transoceanic expansion created new racial and colonial hierarchies in some regions while also relying on older patterns of patriarchy, coerced labor, elite privilege, and religious authority.",
+      "expectedPoints": 6,
+      "credits": 6,
+      "category": "Unit 4 — Transoceanic Interconnections"
+    }
+  ]
+}
