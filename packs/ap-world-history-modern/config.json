@@ -1,0 +1,52 @@
+{
+  "examId": "ap-world-history-modern",
+  "brandName": "AP World History: Modern Exam Simulator",
+  "theme": "dark",
+  "logoPath": "../packs/ap-world-history-modern/assets/logo.png?v=2",
+  "accessPassword": "APWORLDREADY",
+  "practiceChunkSize": 10,
+  "nav": [
+    "Home",
+    "Exam Simulator",
+    "Printable Practice Exams"
+  ],
+  "sections": [
+    {
+      "id": "mcq",
+      "label": "AP World History: Modern Multiple-Choice Section",
+      "timeMin": 55,
+      "timeLabel": "Recommended practice time: 55 minutes",
+      "examQuestions": 55,
+      "type": "mcq",
+      "examFiles": []
+    },
+    {
+      "id": "saq",
+      "label": "AP World History: Modern Short-Answer Section",
+      "timeMin": 40,
+      "timeLabel": "Recommended practice time: 40 minutes",
+      "examQuestions": 3,
+      "type": "written",
+      "examFiles": []
+    },
+    {
+      "id": "dbq",
+      "label": "AP World History: Modern Document-Based Question",
+      "timeMin": 60,
+      "timeLabel": "Recommended practice time: 60 minutes",
+      "examQuestions": 1,
+      "type": "written",
+      "examFiles": []
+    },
+    {
+      "id": "leq",
+      "label": "AP World History: Modern Long Essay Question",
+      "timeMin": 40,
+      "timeLabel": "Recommended practice time: 40 minutes",
+      "examQuestions": 1,
+      "type": "written",
+      "examFiles": []
+    }
+  ],
+  "printables": []
+}
