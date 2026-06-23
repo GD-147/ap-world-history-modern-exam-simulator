@@ -19,7 +19,11 @@
       "examQuestions": 55,
       "type": "mcq",
       "examFiles": [
-        "ap_world_history_modern_mcq_exam_01.json"
+        "ap_world_history_modern_mcq_exam_01.json",
+        "ap_world_history_modern_mcq_exam_02.json",
+        "ap_world_history_modern_mcq_exam_03.json",
+        "ap_world_history_modern_mcq_exam_04.json",
+        "ap_world_history_modern_mcq_exam_05.json"
       ]
     },
     {
@@ -30,7 +34,11 @@
       "examQuestions": 3,
       "type": "written",
       "examFiles": [
-        "ap_world_history_modern_saq_exam_01.json"
+        "ap_world_history_modern_saq_exam_01.json",
+        "ap_world_history_modern_saq_exam_02.json",
+        "ap_world_history_modern_saq_exam_03.json",
+        "ap_world_history_modern_saq_exam_04.json",
+        "ap_world_history_modern_saq_exam_05.json"
       ]
     },
     {
@@ -41,7 +49,11 @@
       "examQuestions": 1,
       "type": "written",
       "examFiles": [
-        "ap_world_history_modern_dbq_exam_01.json"
+        "ap_world_history_modern_dbq_exam_01.json",
+        "ap_world_history_modern_dbq_exam_02.json",
+        "ap_world_history_modern_dbq_exam_03.json",
+        "ap_world_history_modern_dbq_exam_04.json",
+        "ap_world_history_modern_dbq_exam_05.json"
       ]
     },
     {
@@ -52,7 +64,11 @@
       "examQuestions": 1,
       "type": "written",
       "examFiles": [
-        "ap_world_history_modern_leq_exam_01.json"
+        "ap_world_history_modern_leq_exam_01.json",
+        "ap_world_history_modern_leq_exam_02.json",
+        "ap_world_history_modern_leq_exam_03.json",
+        "ap_world_history_modern_leq_exam_04.json",
+        "ap_world_history_modern_leq_exam_05.json"
       ]
     }
   ],
@@ -62,8 +78,40 @@
       "file": "ap_world_history_modern_frq_exam_01.pdf"
     },
     {
+      "label": "AP World History: Modern Free-Response Practice Exam 02",
+      "file": "ap_world_history_modern_frq_exam_02.pdf"
+    },
+    {
+      "label": "AP World History: Modern Free-Response Practice Exam 03",
+      "file": "ap_world_history_modern_frq_exam_03.pdf"
+    },
+    {
+      "label": "AP World History: Modern Free-Response Practice Exam 04",
+      "file": "ap_world_history_modern_frq_exam_04.pdf"
+    },
+    {
+      "label": "AP World History: Modern Free-Response Practice Exam 05",
+      "file": "ap_world_history_modern_frq_exam_05.pdf"
+    },
+    {
       "label": "AP World History: Modern MCQ Practice Exam 01",
       "file": "ap_world_history_modern_mcq_exam_01.pdf"
+    },
+    {
+      "label": "AP World History: Modern MCQ Practice Exam 02",
+      "file": "ap_world_history_modern_mcq_exam_02.pdf"
+    },
+    {
+      "label": "AP World History: Modern MCQ Practice Exam 03",
+      "file": "ap_world_history_modern_mcq_exam_03.pdf"
+    },
+    {
+      "label": "AP World History: Modern MCQ Practice Exam 04",
+      "file": "ap_world_history_modern_mcq_exam_04.pdf"
+    },
+    {
+      "label": "AP World History: Modern MCQ Practice Exam 05",
+      "file": "ap_world_history_modern_mcq_exam_05.pdf"
     }
   ]
 }

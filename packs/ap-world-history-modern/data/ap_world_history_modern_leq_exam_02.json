@@ -1,0 +1,28 @@
+{
+  "title": "AP World History: Modern LEQ Practice Exam 02",
+  "section": "leq",
+  "questions": [
+    {
+      "id": "APWH-LEQ2-001",
+      "section": "LEQ",
+      "type": "written",
+      "itemType": "written",
+      "unit": "Unit 8 — Cold War and Decolonization",
+      "period": "c. 1900–present",
+      "theme": "GOV — Governance",
+      "skill": "",
+      "historicalReasoning": "Comparison",
+      "sourceType": "Broad historical prompt with introductory statement",
+      "prompt": "During the twentieth century, anti-colonial movements challenged European and Japanese imperial rule in many regions. Some movements used petitions, political parties, international diplomacy, strikes, and mass protest, while others used armed struggle, guerrilla warfare, or alliances with Cold War powers.\nCompare the methods used by anti-colonial movements in two regions during the period c. 1900 to the present.",
+      "choices": {},
+      "correct": "",
+      "correctAnswerText": "",
+      "explanation": "",
+      "scoringGuide": "Total Points: 6\nThesis / Claim — 1 point: Earns the point by making a historically defensible claim that compares methods used by anti-colonial movements in two regions during c. 1900 to the present. A strong thesis should identify both a similarity and/or a difference and establish a line of reasoning.\nContextualization — 1 point: Earns the point by describing a broader context relevant to anti-colonial movements, such as imperial rule before World War II, the effects of World War I or World War II, Wilsonian self-determination, the Russian Revolution, Japanese occupation in Asia, the Cold War, the United Nations, or the weakening of European empires.\nEvidence — 2 points: Earns 1 point by identifying at least two specific pieces of relevant evidence, such as the Indian National Congress, Gandhi’s noncooperation campaigns, Vietnamese resistance to France, the Algerian FLN, the Mau Mau rebellion, Ghana’s Convention People’s Party, Indonesian nationalism, Pan-Africanism, or the Bandung Conference. Earns 2 points by using at least two pieces of evidence to support a comparison of methods.\nHistorical Reasoning — 1 point: Earns the point by using comparison to explain similarities and/or differences in anti-colonial methods. A strong response might compare mass civil disobedience with guerrilla warfare, political negotiation with revolutionary violence, or international diplomacy with local mobilization.\nComplexity — 1 point: Earns the point by demonstrating a nuanced understanding of anti-colonial methods. This may include explaining that many movements combined multiple methods, that imperial responses shaped nationalist strategies, that Cold War pressures affected tactics, or that social groups within the same movement disagreed over violence, negotiation, class goals, or postcolonial political visions.",
+      "modelGuidance": "A strong LEQ should compare two regions clearly rather than narrating one independence movement at a time. Useful evidence might include India and noncooperation, Vietnam and armed struggle, Algeria and guerrilla war, Ghana and party politics, Kenya and rural rebellion, Indonesia and diplomacy combined with conflict, or Pan-African and international organizing. The strongest responses explain why methods differed, such as differences in settler colonialism, imperial repression, wartime occupation, leadership, social base, or Cold War context.",
+      "expectedPoints": 6,
+      "credits": 6,
+      "category": "Unit 8 — Cold War and Decolonization"
+    }
+  ]
+}

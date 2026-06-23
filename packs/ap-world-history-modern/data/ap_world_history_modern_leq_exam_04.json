@@ -1,0 +1,28 @@
+{
+  "title": "AP World History: Modern LEQ Practice Exam 04",
+  "section": "leq",
+  "questions": [
+    {
+      "id": "APWH-LEQ4-001",
+      "section": "LEQ",
+      "type": "written",
+      "itemType": "written",
+      "unit": "Unit 5 — Revolutions",
+      "period": "c. 1750–1900",
+      "theme": "GOV — Governance",
+      "skill": "",
+      "historicalReasoning": "Causation",
+      "sourceType": "Broad historical prompt with introductory statement",
+      "prompt": "From c. 1750 to 1900, nationalism became an increasingly powerful political force. In some places it helped create new states, while in others it challenged existing empires or reshaped older ideas about monarchy, citizenship, and sovereignty.\nEvaluate the extent to which nationalism caused political change in the period c. 1750 to 1900.",
+      "choices": {},
+      "correct": "",
+      "correctAnswerText": "",
+      "explanation": "",
+      "scoringGuide": "Total Points: 6\nThesis / Claim — 1 point: Earns the point by making a historically defensible claim that evaluates the extent to which nationalism caused political change from c. 1750 to 1900. A strong thesis should establish a line of reasoning that weighs nationalism against other causes such as Enlightenment ideas, economic change, imperial crisis, military conflict, or social inequality.\nContextualization — 1 point: Earns the point by describing a broader context relevant to nationalism, such as Enlightenment political thought, Atlantic revolutions, the spread of print culture, Napoleonic expansion, imperial decline, industrialization, liberalism, romanticism, or growing challenges to dynastic rule.\nEvidence — 2 points: Earns 1 point by identifying at least two specific pieces of relevant evidence, such as Latin American independence movements, German unification, Italian unification, Balkan nationalism, the Greek War of Independence, the Haitian Revolution, the French Revolution, or nationalist resistance within the Ottoman, Austrian, or Russian empires. Earns 2 points by using at least two pieces of evidence to support an argument about causation.\nHistorical Reasoning — 1 point: Earns the point by using causation to explain how nationalism contributed to political change and how other causes also mattered. Strong responses might explain that nationalism mobilized populations, legitimized new states, challenged dynastic empires, or redefined sovereignty, while also noting the importance of war, elite leadership, economic interests, or foreign intervention.\nComplexity — 1 point: Earns the point by demonstrating a nuanced understanding of nationalism and political change. This may include explaining that nationalism could be revolutionary or conservative, that it unified some peoples while fragmenting empires, that elite and popular nationalism could differ, or that nationalism interacted with liberalism, imperialism, and racial ideologies.",
+      "modelGuidance": "A strong LEQ should make a clear causal argument about nationalism rather than simply describing several independence movements. Useful evidence might include Latin American independence, German and Italian unification, Balkan independence movements, the Greek War of Independence, the French Revolution, the Haitian Revolution, and nationalist challenges to multiethnic empires. Strong answers should explain how nationalism caused political change while also evaluating other causes, such as imperial weakness, war, Enlightenment ideas, social inequality, or elite political strategy.",
+      "expectedPoints": 6,
+      "credits": 6,
+      "category": "Unit 5 — Revolutions"
+    }
+  ]
+}

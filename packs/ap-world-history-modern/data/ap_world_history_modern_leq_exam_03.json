@@ -1,0 +1,28 @@
+{
+  "title": "AP World History: Modern LEQ Practice Exam 03",
+  "section": "leq",
+  "questions": [
+    {
+      "id": "APWH-LEQ3-001",
+      "section": "LEQ",
+      "type": "written",
+      "itemType": "written",
+      "unit": "Unit 7 — Global Conflict",
+      "period": "c. 1900–present",
+      "theme": "GOV — Governance",
+      "skill": "",
+      "historicalReasoning": "Causation",
+      "sourceType": "Broad historical prompt with introductory statement",
+      "prompt": "In the decades after World War I, several states experienced political instability, economic crisis, mass mobilization, and challenges to liberal parliamentary systems. In some cases, authoritarian movements promised national revival, social order, territorial expansion, or protection from communism and capitalism.\nEvaluate the extent to which economic crises contributed to the rise of authoritarian states in the period c. 1918 to 1939.",
+      "choices": {},
+      "correct": "",
+      "correctAnswerText": "",
+      "explanation": "",
+      "scoringGuide": "Total Points: 6\nThesis / Claim — 1 point: Earns the point by making a historically defensible claim that evaluates the extent to which economic crises contributed to the rise of authoritarian states from c. 1918 to 1939. A strong thesis should establish a line of reasoning that weighs economic causes against political, social, ideological, or international factors.\nContextualization — 1 point: Earns the point by describing a broader context relevant to the interwar period, such as the effects of World War I, the Treaty of Versailles, the Russian Revolution, the Great Depression, mass politics, fears of communism, nationalist resentment, imperial ambitions, or weaknesses of parliamentary governments.\nEvidence — 2 points: Earns 1 point by identifying at least two specific pieces of relevant evidence, such as the Great Depression, hyperinflation in Germany, unemployment, the Nazi Party, Mussolini’s Fascist movement, Stalin’s command economy, Japanese militarism, the Weimar Republic, reparations, or fear of socialist revolution. Earns 2 points by using at least two pieces of evidence to support an argument about causation.\nHistorical Reasoning — 1 point: Earns the point by using causation to explain how economic crises contributed to authoritarianism and how other causes also mattered. Strong responses might explain that economic distress weakened confidence in liberal institutions, expanded support for extremist movements, or allowed leaders to promise stability, while also showing the role of war memory, nationalism, ideology, and political violence.\nComplexity — 1 point: Earns the point by demonstrating a nuanced understanding of interwar authoritarianism. This may include comparing different states, showing that economic crisis was more important in some cases than others, explaining interaction between economic and ideological causes, or distinguishing between fascist, communist, and militarist forms of authoritarian rule.",
+      "modelGuidance": "A strong LEQ should make a clear causal argument rather than simply listing authoritarian leaders. Useful evidence could include the Great Depression, German hyperinflation, Weimar instability, Nazi promises of jobs and national revival, Mussolini’s use of nationalism and anti-socialism, Stalin’s command economy, Japanese military influence, and fears of communism. Strong answers should weigh economic crisis against other causes such as World War I, nationalist humiliation, weak democratic institutions, political violence, and ideological mobilization.",
+      "expectedPoints": 6,
+      "credits": 6,
+      "category": "Unit 7 — Global Conflict"
+    }
+  ]
+}

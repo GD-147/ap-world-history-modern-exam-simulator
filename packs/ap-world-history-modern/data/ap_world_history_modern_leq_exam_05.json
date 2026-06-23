@@ -1,0 +1,28 @@
+{
+  "title": "AP World History: Modern LEQ Practice Exam 05",
+  "section": "leq",
+  "questions": [
+    {
+      "id": "APWH-LEQ5-001",
+      "section": "LEQ",
+      "type": "written",
+      "itemType": "written",
+      "unit": "Unit 5 — Revolutions",
+      "period": "c. 1750–1900",
+      "theme": "TEC — Technology and Innovation",
+      "skill": "",
+      "historicalReasoning": "Causation",
+      "sourceType": "Broad historical prompt with introductory statement",
+      "prompt": "From c. 1750 to 1900, revolutionary ideas spread through pamphlets, newspapers, books, schools, salons, religious networks, postal systems, railways, and telegraphs. These communication systems did not cause revolutions by themselves, but they shaped how political ideas reached broader audiences.\nEvaluate the extent to which changes in communication and print culture contributed to revolutionary movements in the period c. 1750 to 1900.",
+      "choices": {},
+      "correct": "",
+      "correctAnswerText": "",
+      "explanation": "",
+      "scoringGuide": "Total Points: 6\nThesis / Claim — 1 point: Earns the point by making a historically defensible claim that evaluates the extent to which communication and print culture contributed to revolutionary movements from c. 1750 to 1900. A strong thesis should establish a line of reasoning that weighs communication changes against other causes such as social inequality, economic crisis, imperial rule, war, Enlightenment ideas, or state weakness.\nContextualization — 1 point: Earns the point by describing a broader context relevant to revolutionary movements, such as Enlightenment thought, Atlantic revolutions, expanding literacy, urbanization, industrialization, imperial crisis, missionary education, liberalism, nationalism, or the growth of public political debate.\nEvidence — 2 points: Earns 1 point by identifying at least two specific pieces of relevant evidence, such as pamphlets in the French Revolution, newspapers in Latin American independence movements, abolitionist print networks, revolutionary clubs, the spread of Enlightenment texts, railways and telegraphs in 1848 revolutions, printed reform literature, or educated elites using newspapers and journals. Earns 2 points by using at least two pieces of evidence to support an argument about causation.\nHistorical Reasoning — 1 point: Earns the point by using causation to explain how communication and print culture contributed to revolutionary movements. Strong responses might explain that print spread shared grievances, created imagined political communities, criticized authority, coordinated protest, or circulated new concepts of rights and sovereignty, while also recognizing that communication technologies interacted with deeper social, economic, and political causes.\nComplexity — 1 point: Earns the point by demonstrating a nuanced understanding of revolutionary causation. This may include explaining that print culture helped mobilize some groups more than others, that communication could spread both radical and conservative ideas, that states also used censorship and propaganda, or that communication networks accelerated revolutions without being sufficient to cause them alone.",
+      "modelGuidance": "A strong LEQ should not argue that newspapers or pamphlets alone caused revolutions. Instead, it should explain how communication systems helped spread ideas, coordinate movements, and create political communities while also evaluating other causes. Useful evidence might include French revolutionary pamphlets, Enlightenment texts, Latin American newspapers, abolitionist publications, the revolutions of 1848, telegraph and railway networks, schools, salons, or reform journals. Strong answers should connect communication to causation, not simply list technologies.",
+      "expectedPoints": 6,
+      "credits": 6,
+      "category": "Unit 5 — Revolutions"
+    }
+  ]
+}
