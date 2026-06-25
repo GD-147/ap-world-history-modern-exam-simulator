@@ -1,0 +1,28 @@
+{
+  "title": "AP World History: Modern LEQ Practice Exam 12",
+  "section": "leq",
+  "questions": [
+    {
+      "id": "APWH-LEQ12-001",
+      "section": "LEQ",
+      "type": "written",
+      "itemType": "written",
+      "unit": "Unit 8 — Cold War and Decolonization",
+      "period": "c. 1900–present",
+      "theme": "GOV — Governance",
+      "skill": "",
+      "historicalReasoning": "Causation",
+      "sourceType": "Broad historical prompt with introductory statement",
+      "prompt": "After 1945, Cold War rivalries shaped conflicts in Asia, Africa, Latin America, and the Middle East. Superpowers often supplied weapons, money, training, or diplomatic support, but many conflicts also grew from local struggles over decolonization, land, ideology, ethnicity, resources, or state power.\nEvaluate the extent to which Cold War rivalries caused conflicts in the developing world from c. 1945 to 1991.",
+      "choices": {},
+      "correct": "",
+      "correctAnswerText": "",
+      "explanation": "",
+      "scoringGuide": "Total Points: 6\nThesis / Claim — 1 point: Earns the point by making a historically defensible claim that evaluates the extent to which Cold War rivalries caused conflicts in the developing world from c. 1945 to 1991. A strong thesis should establish a line of reasoning that weighs superpower rivalry against local causes.\nContextualization — 1 point: Earns the point by describing a broader context relevant to Cold War conflicts, such as the end of World War II, decolonization, the division between capitalist and communist blocs, nuclear rivalry, containment, Soviet support for socialist movements, U.S. anti-communist policy, or newly independent states seeking sovereignty.\nEvidence — 2 points: Earns 1 point by identifying at least two specific pieces of relevant evidence, such as the Korean War, Vietnam War, Soviet-Afghan War, Cuban Revolution, Angolan Civil War, Congo Crisis, Guatemalan coup, Sandinista Revolution, Arab-Israeli conflicts, or U.S. and Soviet military aid. Earns 2 points by using at least two pieces of evidence to support an argument about causation.\nHistorical Reasoning — 1 point: Earns the point by using causation to explain how Cold War rivalry contributed to conflicts and how local causes also mattered. Strong responses might explain that superpowers intensified conflicts through aid, intervention, and ideological framing, while local actors pursued their own goals related to independence, land reform, ethnic rivalry, anti-colonialism, nationalism, or regime survival.\nComplexity — 1 point: Earns the point by demonstrating a nuanced understanding of Cold War conflict. This may include explaining that some conflicts became Cold War proxy wars after beginning locally, that local leaders used superpower rivalry to gain aid, that ideology interacted with nationalism and decolonization, or that superpower involvement differed by region and over time.",
+      "modelGuidance": "A strong LEQ should not treat developing-world conflicts as simply controlled by the United States and Soviet Union. Useful evidence might include Korea, Vietnam, Afghanistan, Angola, Congo, Guatemala, Cuba, Nicaragua, and U.S. or Soviet military aid. Strong answers should explain how Cold War rivalry intensified or internationalized conflicts while also showing that local causes—decolonization, land reform, nationalism, ethnic tensions, resources, and state power—were often central.",
+      "expectedPoints": 6,
+      "credits": 6,
+      "category": "Unit 8 — Cold War and Decolonization"
+    }
+  ]
+}

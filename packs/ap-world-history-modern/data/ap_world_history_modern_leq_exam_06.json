@@ -1,0 +1,28 @@
+{
+  "title": "AP World History: Modern LEQ Practice Exam 06",
+  "section": "leq",
+  "questions": [
+    {
+      "id": "APWH-LEQ6-001",
+      "section": "LEQ",
+      "type": "written",
+      "itemType": "written",
+      "unit": "Unit 6 — Consequences of Industrialization",
+      "period": "c. 1750–1900",
+      "theme": "SIO — Social Interactions and Organization",
+      "skill": "",
+      "historicalReasoning": "Continuity and Change Over Time",
+      "sourceType": "Broad historical prompt with introductory statement",
+      "prompt": "From c. 1750 to 1900, industrial capitalism, imperial expansion, steam transportation, settler colonialism, famine, religious persecution, and changing labor markets shaped the movement of people across oceans and continents. Some migrants moved voluntarily, while others migrated under pressure from poverty, discrimination, state policy, or colonial expansion.\nEvaluate the extent to which patterns of transregional migration changed in the period c. 1750 to 1900.",
+      "choices": {},
+      "correct": "",
+      "correctAnswerText": "",
+      "explanation": "",
+      "scoringGuide": "Total Points: 6\nThesis / Claim — 1 point: Earns the point by making a historically defensible claim that evaluates the extent to which patterns of transregional migration changed from c. 1750 to 1900. A strong thesis should establish a line of reasoning about change, continuity, or both.\nContextualization — 1 point: Earns the point by describing a broader context relevant to migration, such as industrialization, imperial expansion, population growth, famine, settler colonialism, steamship travel, railroad expansion, anti-Semitism, labor demand in cities and frontier zones, or the decline of older coerced labor systems.\nEvidence — 2 points: Earns 1 point by identifying at least two specific pieces of relevant evidence, such as Irish migration after the Great Famine, Italian migration to Argentina or the United States, Russian Jewish migration, Lebanese and Syrian merchant diasporas, European settler migration to Australia or New Zealand, Chinese merchant migration to Southeast Asia, Japanese migration to Hawaii, or rural-to-urban migration within industrializing regions. Earns 2 points by using at least two pieces of evidence to support an argument about change and/or continuity.\nHistorical Reasoning — 1 point: Earns the point by using continuity and change over time to explain how migration patterns changed and what older patterns continued. Strong responses might explain changes such as larger-scale oceanic migration, more steamship-assisted movement, settler colonial migration, and labor migration to industrial cities, while also noting continuities such as merchant diasporas, religious minority migration, family networks, and migrants facing discrimination.\nComplexity — 1 point: Earns the point by demonstrating a nuanced understanding of migration. This may include explaining that migration could be voluntary and coerced in different degrees, that states encouraged some migrants while excluding others, that migrants created diaspora communities and remittances, or that receiving societies often depended on migrant labor while also producing racial, religious, or class-based backlash.",
+      "modelGuidance": "A strong LEQ should avoid treating migration as a single cause-and-effect pattern. Useful evidence might include Irish famine migration, Italian migration to the Americas, Russian Jewish migration, Lebanese and Syrian merchant diasporas, European settler migration to Australia or New Zealand, Chinese merchant communities in Southeast Asia, Japanese migration to Hawaii, and rural-to-urban migration. The best responses will explain both change and continuity: migration expanded in scale and speed because of industrial transportation and global labor markets, but older patterns of diaspora, discrimination, family networks, and merchant mobility continued.",
+      "expectedPoints": 6,
+      "credits": 6,
+      "category": "Unit 6 — Consequences of Industrialization"
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "title": "AP World History: Modern LEQ Practice Exam 09",
+  "section": "leq",
+  "questions": [
+    {
+      "id": "APWH-LEQ9-001",
+      "section": "LEQ",
+      "type": "written",
+      "itemType": "written",
+      "unit": "Unit 3 — Land-Based Empires",
+      "period": "c. 1750–1900",
+      "theme": "GOV — Governance",
+      "skill": "",
+      "historicalReasoning": "Comparison",
+      "sourceType": "Broad historical prompt with introductory statement",
+      "prompt": "During the nineteenth century, several land-based empires faced military defeats, internal rebellions, fiscal pressure, and growing foreign influence. Some imperial governments attempted reforms in administration, military organization, education, law, infrastructure, or industry to preserve sovereignty and strengthen the state.\nCompare reform efforts in the Ottoman Empire and Qing China during the nineteenth century.",
+      "choices": {},
+      "correct": "",
+      "correctAnswerText": "",
+      "explanation": "",
+      "scoringGuide": "Total Points: 6\nThesis / Claim — 1 point: Earns the point by making a historically defensible claim that compares reform efforts in the Ottoman Empire and Qing China during the nineteenth century. A strong thesis should identify a meaningful similarity and/or difference and establish a line of reasoning.\nContextualization — 1 point: Earns the point by describing a broader context relevant to nineteenth-century imperial reform, such as European industrial and military power, imperialism, unequal treaties, internal rebellions, fiscal crisis, nationalist movements, missionary activity, military defeats, or the global spread of industrial technologies.\nEvidence — 2 points: Earns 1 point by identifying at least two specific pieces of relevant evidence, such as the Tanzimat reforms, Ottoman constitutionalism, new schools, legal reforms, Janissary abolition, Self-Strengthening Movement, Tongzhi Restoration, arsenals, shipyards, treaty ports, Taiping Rebellion, Opium Wars, or foreign advisers. Earns 2 points by using at least two pieces of evidence to support a comparison of Ottoman and Qing reforms.\nHistorical Reasoning — 1 point: Earns the point by using comparison to explain similarities and/or differences in reform efforts. Strong responses might compare military modernization, administrative centralization, legal reform, adoption of foreign technology, resistance by conservative elites, or different degrees of constitutional and educational reform.\nComplexity — 1 point: Earns the point by demonstrating a nuanced understanding of imperial reform. This may include explaining that reforms aimed to preserve empire rather than simply imitate Europe, that reform was constrained by internal opposition and foreign pressure, that technology could be adopted without full political transformation, or that reform outcomes differed because of different social structures, regional pressures, and imperial institutions.",
+      "modelGuidance": "A strong LEQ should directly compare the Ottoman Empire and Qing China rather than writing two separate narratives. Useful evidence might include the Tanzimat, Ottoman legal and educational reforms, constitutional experiments, military reform, the Self-Strengthening Movement, arsenals and shipyards, the Opium Wars, the Taiping Rebellion, treaty ports, and foreign advisers. Strong responses should explain how both empires attempted to strengthen themselves under pressure, while also showing differences in reform scope, political institutions, resistance, and results.",
+      "expectedPoints": 6,
+      "credits": 6,
+      "category": "Unit 3 — Land-Based Empires"
+    }
+  ]
+}

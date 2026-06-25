@@ -23,7 +23,14 @@
         "ap_world_history_modern_mcq_exam_02.json",
         "ap_world_history_modern_mcq_exam_03.json",
         "ap_world_history_modern_mcq_exam_04.json",
-        "ap_world_history_modern_mcq_exam_05.json"
+        "ap_world_history_modern_mcq_exam_05.json",
+        "ap_world_history_modern_mcq_exam_06.json",
+        "ap_world_history_modern_mcq_exam_07.json",
+        "ap_world_history_modern_mcq_exam_08.json",
+        "ap_world_history_modern_mcq_exam_09.json",
+        "ap_world_history_modern_mcq_exam_10.json",
+        "ap_world_history_modern_mcq_exam_11.json",
+        "ap_world_history_modern_mcq_exam_12.json"
       ]
     },
     {
@@ -38,7 +45,14 @@
         "ap_world_history_modern_saq_exam_02.json",
         "ap_world_history_modern_saq_exam_03.json",
         "ap_world_history_modern_saq_exam_04.json",
-        "ap_world_history_modern_saq_exam_05.json"
+        "ap_world_history_modern_saq_exam_05.json",
+        "ap_world_history_modern_saq_exam_06.json",
+        "ap_world_history_modern_saq_exam_07.json",
+        "ap_world_history_modern_saq_exam_08.json",
+        "ap_world_history_modern_saq_exam_09.json",
+        "ap_world_history_modern_saq_exam_10.json",
+        "ap_world_history_modern_saq_exam_11.json",
+        "ap_world_history_modern_saq_exam_12.json"
       ]
     },
     {
@@ -53,7 +67,14 @@
         "ap_world_history_modern_dbq_exam_02.json",
         "ap_world_history_modern_dbq_exam_03.json",
         "ap_world_history_modern_dbq_exam_04.json",
-        "ap_world_history_modern_dbq_exam_05.json"
+        "ap_world_history_modern_dbq_exam_05.json",
+        "ap_world_history_modern_dbq_exam_06.json",
+        "ap_world_history_modern_dbq_exam_07.json",
+        "ap_world_history_modern_dbq_exam_08.json",
+        "ap_world_history_modern_dbq_exam_09.json",
+        "ap_world_history_modern_dbq_exam_10.json",
+        "ap_world_history_modern_dbq_exam_11.json",
+        "ap_world_history_modern_dbq_exam_12.json"
       ]
     },
     {
@@ -68,7 +89,14 @@
         "ap_world_history_modern_leq_exam_02.json",
         "ap_world_history_modern_leq_exam_03.json",
         "ap_world_history_modern_leq_exam_04.json",
-        "ap_world_history_modern_leq_exam_05.json"
+        "ap_world_history_modern_leq_exam_05.json",
+        "ap_world_history_modern_leq_exam_06.json",
+        "ap_world_history_modern_leq_exam_07.json",
+        "ap_world_history_modern_leq_exam_08.json",
+        "ap_world_history_modern_leq_exam_09.json",
+        "ap_world_history_modern_leq_exam_10.json",
+        "ap_world_history_modern_leq_exam_11.json",
+        "ap_world_history_modern_leq_exam_12.json"
       ]
     }
   ],
@@ -94,6 +122,34 @@
       "file": "ap_world_history_modern_frq_exam_05.pdf"
     },
     {
+      "label": "AP World History: Modern Free-Response Practice Exam 06",
+      "file": "ap_world_history_modern_frq_exam_06.pdf"
+    },
+    {
+      "label": "AP World History: Modern Free-Response Practice Exam 07",
+      "file": "ap_world_history_modern_frq_exam_07.pdf"
+    },
+    {
+      "label": "AP World History: Modern Free-Response Practice Exam 08",
+      "file": "ap_world_history_modern_frq_exam_08.pdf"
+    },
+    {
+      "label": "AP World History: Modern Free-Response Practice Exam 09",
+      "file": "ap_world_history_modern_frq_exam_09.pdf"
+    },
+    {
+      "label": "AP World History: Modern Free-Response Practice Exam 10",
+      "file": "ap_world_history_modern_frq_exam_10.pdf"
+    },
+    {
+      "label": "AP World History: Modern Free-Response Practice Exam 11",
+      "file": "ap_world_history_modern_frq_exam_11.pdf"
+    },
+    {
+      "label": "AP World History: Modern Free-Response Practice Exam 12",
+      "file": "ap_world_history_modern_frq_exam_12.pdf"
+    },
+    {
       "label": "AP World History: Modern MCQ Practice Exam 01",
       "file": "ap_world_history_modern_mcq_exam_01.pdf"
     },
@@ -112,6 +168,34 @@
     {
       "label": "AP World History: Modern MCQ Practice Exam 05",
       "file": "ap_world_history_modern_mcq_exam_05.pdf"
+    },
+    {
+      "label": "AP World History: Modern MCQ Practice Exam 06",
+      "file": "ap_world_history_modern_mcq_exam_06.pdf"
+    },
+    {
+      "label": "AP World History: Modern MCQ Practice Exam 07",
+      "file": "ap_world_history_modern_mcq_exam_07.pdf"
+    },
+    {
+      "label": "AP World History: Modern MCQ Practice Exam 08",
+      "file": "ap_world_history_modern_mcq_exam_08.pdf"
+    },
+    {
+      "label": "AP World History: Modern MCQ Practice Exam 09",
+      "file": "ap_world_history_modern_mcq_exam_09.pdf"
+    },
+    {
+      "label": "AP World History: Modern MCQ Practice Exam 10",
+      "file": "ap_world_history_modern_mcq_exam_10.pdf"
+    },
+    {
+      "label": "AP World History: Modern MCQ Practice Exam 11",
+      "file": "ap_world_history_modern_mcq_exam_11.pdf"
+    },
+    {
+      "label": "AP World History: Modern MCQ Practice Exam 12",
+      "file": "ap_world_history_modern_mcq_exam_12.pdf"
     }
   ]
 }

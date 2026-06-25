@@ -1,0 +1,28 @@
+{
+  "title": "AP World History: Modern LEQ Practice Exam 10",
+  "section": "leq",
+  "questions": [
+    {
+      "id": "APWH-LEQ10-001",
+      "section": "LEQ",
+      "type": "written",
+      "itemType": "written",
+      "unit": "Unit 5 — Revolutions",
+      "period": "c. 1900–present",
+      "theme": "GOV — Governance",
+      "skill": "",
+      "historicalReasoning": "Comparison",
+      "sourceType": "Broad historical prompt with introductory statement",
+      "prompt": "In the early twentieth century, revolutionary movements challenged older political orders in several regions. In Mexico and China, revolutionaries opposed weak or discredited governments, foreign influence, unequal landholding, regional military power, and social hierarchies. Yet the revolutionary outcomes in the two countries differed in important ways.\nCompare the causes of the Mexican Revolution and the Chinese Revolution of 1911.",
+      "choices": {},
+      "correct": "",
+      "correctAnswerText": "",
+      "explanation": "",
+      "scoringGuide": "Total Points: 6\nThesis / Claim — 1 point: Earns the point by making a historically defensible claim that compares the causes of the Mexican Revolution and the Chinese Revolution of 1911. A strong thesis should identify a meaningful similarity and/or difference and establish a line of reasoning.\nContextualization — 1 point: Earns the point by describing a broader context relevant to early twentieth-century revolutions, such as imperialism, export economies, land inequality, modernization programs, nationalism, foreign investment, weakened monarchies or authoritarian governments, regionalism, railroads, military reform, or global circulation of republican ideas.\nEvidence — 2 points: Earns 1 point by identifying at least two specific pieces of relevant evidence, such as the Porfirio Díaz regime, hacienda land concentration, foreign investment in Mexico, Francisco Madero, Emiliano Zapata, Pancho Villa, Qing decline, the 1911 Wuchang uprising, Sun Yat-sen, anti-Manchu nationalism, railway nationalization disputes, treaty ports, or reform failures after the Boxer crisis. Earns 2 points by using at least two pieces of evidence to support a comparison of causes.\nHistorical Reasoning — 1 point: Earns the point by using comparison to explain similarities and/or differences in revolutionary causes. Strong responses might compare land inequality and rural grievances in Mexico with anti-dynastic nationalism and reform failure in China, or compare resentment of foreign influence in both countries while explaining differences in monarchy, regional military power, and social base.\nComplexity — 1 point: Earns the point by demonstrating a nuanced understanding of revolutionary causation. This may include explaining that both revolutions combined elite political opposition with broader social grievances, that foreign economic influence mattered differently in each case, that revolutionary unity was limited, or that overthrowing an old regime did not immediately resolve regionalism, land inequality, or political fragmentation.",
+      "modelGuidance": "A strong LEQ should compare Mexico and China directly rather than writing two separate summaries. Useful evidence for Mexico might include the Díaz regime, haciendas, foreign investment, Madero, Zapata, Villa, and rural land grievances. Useful evidence for China might include Qing weakness, anti-Manchu nationalism, Sun Yat-sen, the Wuchang uprising, railway disputes, treaty ports, and failed reforms. Strong answers should explain both similarities and differences, especially the role of land, nationalism, foreign influence, elite opposition, and weakened state authority.",
+      "expectedPoints": 6,
+      "credits": 6,
+      "category": "Unit 5 — Revolutions"
+    }
+  ]
+}

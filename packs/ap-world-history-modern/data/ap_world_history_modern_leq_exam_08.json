@@ -1,0 +1,28 @@
+{
+  "title": "AP World History: Modern LEQ Practice Exam 08",
+  "section": "leq",
+  "questions": [
+    {
+      "id": "APWH-LEQ8-001",
+      "section": "LEQ",
+      "type": "written",
+      "itemType": "written",
+      "unit": "Unit 8 — Cold War and Decolonization",
+      "period": "c. 1900–present",
+      "theme": "ECN — Economic Systems",
+      "skill": "",
+      "historicalReasoning": "Comparison",
+      "sourceType": "Broad historical prompt with introductory statement",
+      "prompt": "During the twentieth century, communist revolutions and socialist governments attempted to transform economic and social life. These transformations often included land reform, collectivization, state planning, campaigns against old elites, changes in gender or family policy, and efforts to build new forms of political loyalty.\nCompare the effects of communist revolutions on economic and social structures in two states during the period c. 1900 to the present.",
+      "choices": {},
+      "correct": "",
+      "correctAnswerText": "",
+      "explanation": "",
+      "scoringGuide": "Total Points: 6\nThesis / Claim — 1 point: Earns the point by making a historically defensible claim that compares the effects of communist revolutions on economic and social structures in two states during c. 1900 to the present. A strong thesis should identify a meaningful similarity and/or difference and establish a line of reasoning.\nContextualization — 1 point: Earns the point by describing a broader context relevant to communist revolutions, such as industrial capitalism, World War I, the Russian Revolution, imperial collapse, peasant inequality, anti-imperialism, World War II, the Cold War, Marxism-Leninism, or state-led modernization.\nEvidence — 2 points: Earns 1 point by identifying at least two specific pieces of relevant evidence, such as Soviet collectivization, five-year plans, dekulakization, Chinese land reform, the Great Leap Forward, communes, Cuban land reform, Vietnamese collectivization, literacy campaigns, party-state control, or changes in women’s legal status. Earns 2 points by using at least two pieces of evidence to support a comparison of effects.\nHistorical Reasoning — 1 point: Earns the point by using comparison to explain similarities and/or differences in the effects of communist revolutions. Strong responses might compare industrialization and collectivization, treatment of peasants and landlords, gender policy, education, state violence, party control, or the balance between economic modernization and social disruption.\nComplexity — 1 point: Earns the point by demonstrating a nuanced understanding of communist revolutionary change. This may include explaining that communist revolutions could expand literacy, land access, or women’s public roles while also producing coercion, famine, repression, or new bureaucratic hierarchies; or showing that effects differed depending on levels of industrialization, peasant society, war, foreign pressure, and leadership choices.",
+      "modelGuidance": "A strong LEQ should compare two states directly rather than narrating them separately. Useful comparisons might include the Soviet Union and China, China and Cuba, Vietnam and the Soviet Union, or Cuba and China. Evidence may include five-year plans, collectivization, land reform, communes, literacy campaigns, party control, changes in gender policy, famine, and repression. The best responses explain both similarities and differences in economic and social effects and avoid presenting communist revolutions as either entirely liberating or entirely destructive.",
+      "expectedPoints": 6,
+      "credits": 6,
+      "category": "Unit 8 — Cold War and Decolonization"
+    }
+  ]
+}

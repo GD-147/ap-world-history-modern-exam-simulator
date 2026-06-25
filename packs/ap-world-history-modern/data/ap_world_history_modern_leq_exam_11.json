@@ -1,0 +1,28 @@
+{
+  "title": "AP World History: Modern LEQ Practice Exam 11",
+  "section": "leq",
+  "questions": [
+    {
+      "id": "APWH-LEQ11-001",
+      "section": "LEQ",
+      "type": "written",
+      "itemType": "written",
+      "unit": "Unit 9 — Globalization",
+      "period": "c. 1900–present",
+      "theme": "SIO — Social Interactions and Organization",
+      "skill": "",
+      "historicalReasoning": "Continuity and Change Over Time",
+      "sourceType": "Broad historical prompt with introductory statement",
+      "prompt": "During the twentieth century, cities expanded rapidly in many regions as industrialization, decolonization, migration, war, state planning, and global economic change reshaped where people lived and worked. Urban growth created new opportunities but also produced housing shortages, informal settlements, pollution, labor struggles, and new cultural forms.\nEvaluate the extent to which urbanization changed social structures in the period c. 1900 to the present.",
+      "choices": {},
+      "correct": "",
+      "correctAnswerText": "",
+      "explanation": "",
+      "scoringGuide": "Total Points: 6\nThesis / Claim — 1 point: Earns the point by making a historically defensible claim that evaluates the extent to which urbanization changed social structures from c. 1900 to the present. A strong thesis should establish a line of reasoning about change, continuity, or both.\nContextualization — 1 point: Earns the point by describing a broader context relevant to twentieth-century urbanization, such as industrialization, rural-to-urban migration, decolonization, population growth, war and displacement, globalization, state-led development, transportation networks, housing policy, or the expansion of wage labor.\nEvidence — 2 points: Earns 1 point by identifying at least two specific pieces of relevant evidence, such as Mexico City’s growth, Lagos or Nairobi urbanization, Mumbai, Shanghai, Cairo, favelas in Brazil, apartheid townships, Soviet planned cities, migrant labor dormitories, informal economies, urban labor unions, or public housing programs. Earns 2 points by using at least two pieces of evidence to support an argument about social structural change.\nHistorical Reasoning — 1 point: Earns the point by using continuity and change over time to explain how urbanization changed social structures and what continuities persisted. Strong responses might explain changes in class formation, gender roles, labor organization, education, youth culture, informal economies, or political protest, while also noting continuities in inequality, segregation, rural ties, family networks, or migrant marginalization.\nComplexity — 1 point: Earns the point by demonstrating a nuanced understanding of urbanization. This may include explaining that urbanization created new middle classes and working classes while also expanding informal settlements, that states attempted to plan urban life but migrants often built their own networks, or that urbanization affected men, women, migrants, and elites differently across regions.",
+      "modelGuidance": "A strong LEQ should not simply say that cities became larger. It should explain how urban growth changed social structures. Useful evidence might include favelas in Brazil, Mexico City, Lagos, Nairobi, Cairo, Mumbai, Shanghai, apartheid townships, Soviet planned cities, migrant labor systems, public housing, informal markets, and urban labor movements. Strong responses should balance change and continuity, showing how urbanization reshaped class, gender, work, politics, education, and culture while inequality, segregation, and rural family networks often persisted.",
+      "expectedPoints": 6,
+      "credits": 6,
+      "category": "Unit 9 — Globalization"
+    }
+  ]
+}

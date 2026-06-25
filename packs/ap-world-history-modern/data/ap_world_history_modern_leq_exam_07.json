@@ -1,0 +1,28 @@
+{
+  "title": "AP World History: Modern LEQ Practice Exam 07",
+  "section": "leq",
+  "questions": [
+    {
+      "id": "APWH-LEQ7-001",
+      "section": "LEQ",
+      "type": "written",
+      "itemType": "written",
+      "unit": "Unit 6 — Consequences of Industrialization",
+      "period": "c. 1750–1900",
+      "theme": "ECN — Economic Systems",
+      "skill": "",
+      "historicalReasoning": "Causation",
+      "sourceType": "Broad historical prompt with introductory statement",
+      "prompt": "Although Great Britain industrialized first, industrialization spread unevenly to other regions during the nineteenth century. Some states and societies adopted factories, railroads, heavy industry, banking systems, protective tariffs, or technical education to compete in a rapidly changing global economy.\nEvaluate the extent to which industrialization outside Great Britain changed global economic and political power in the period c. 1750 to 1900.",
+      "choices": {},
+      "correct": "",
+      "correctAnswerText": "",
+      "explanation": "",
+      "scoringGuide": "Total Points: 6\nThesis / Claim — 1 point: Earns the point by making a historically defensible claim that evaluates the extent to which industrialization outside Great Britain changed global economic and political power from c. 1750 to 1900. A strong thesis should establish a line of reasoning about how industrialization shifted or reinforced power among states and regions.\nContextualization — 1 point: Earns the point by describing a broader context relevant to industrialization outside Great Britain, such as the Industrial Revolution, coal and steam power, global markets, imperial competition, nationalism, state-sponsored modernization, railroad construction, protective tariffs, or the demand for raw materials and manufactured goods.\nEvidence — 2 points: Earns 1 point by identifying at least two specific pieces of relevant evidence, such as German industrial growth, U.S. steel and railroads, Japanese Meiji industrialization, Russian railway construction, Belgian or French industry, protective tariffs, state banks, technical schools, or military-industrial production. Earns 2 points by using at least two pieces of evidence to support an argument about changing global economic or political power.\nHistorical Reasoning — 1 point: Earns the point by using causation to explain how industrialization outside Great Britain affected power. Strong responses might explain that industrialization allowed some states to challenge British dominance, build stronger militaries, expand overseas influence, increase exports, or strengthen centralized states, while nonindustrial regions became more vulnerable to imperialism or unequal trade.\nComplexity — 1 point: Earns the point by demonstrating a nuanced understanding of uneven industrialization. This may include explaining that industrialization strengthened some late-industrializing states but did not eliminate British power, that state policy mattered more in some regions than others, that industrial power increased imperial competition, or that industrialization deepened inequalities between industrial and nonindustrial regions.",
+      "modelGuidance": "A strong LEQ should not simply describe British industrialization. It should focus on industrialization outside Great Britain and explain how it changed global power. Useful evidence might include German heavy industry, U.S. railroads and steel, Japanese state-led industrialization, Russian railway building, French or Belgian industry, protective tariffs, technical education, and military-industrial production. Strong responses should connect industrial growth to global consequences, such as new imperial rivalries, stronger militaries, changing export competition, and widening gaps between industrialized and nonindustrialized regions.",
+      "expectedPoints": 6,
+      "credits": 6,
+      "category": "Unit 6 — Consequences of Industrialization"
+    }
+  ]
+}
